@@ -2,6 +2,11 @@
 # Created by https://www.gitignore.io/api/osx,python,pycharm,windows,visualstudio,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=osx,python,pycharm,windows,visualstudio,visualstudiocode
 
+data/test_data
+data/train_data
+notebooks/logs
+notebooks/models
+
 ### OSX ###
 # General
 .DS_Store
@@ -315,8 +320,6 @@ Generated\ Files/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-
-data
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
